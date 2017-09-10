@@ -8,3 +8,7 @@ Class 02:- Statistical Computation with Python, Working with OpenCV
 Class 03:- Review of Linear Algebra
 <br>
 Class 04:- K-Nearest Neighbors Algorithm
+<br>
+Class 05:- K-Means Clustering, Color Palette Generation for Image
+<br>
+Class 06:- Decision Trees and Random Forests
