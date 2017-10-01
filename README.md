@@ -9,6 +9,14 @@ Class 03:- Review of Linear Algebra
 <br>
 Class 04:- K-Nearest Neighbors Algorithm
 <br>
-Class 05:- K-Means Clustering, Color Palette Generation for Image
+Class 05:- K-Means Clustering
 <br>
 Class 06:- Decision Trees and Random Forests
+<br>
+Class 07:- Linear Regression
+<br>
+Class 08:- Logisitic Regression
+<br>
+Class 09:- Intro to Neural Nets - Intuition, MLP
+<br>
+Class 10:- Backpropogation
